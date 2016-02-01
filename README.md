@@ -14,7 +14,7 @@ Convenient when accessing a machine via a technical user to project into the env
     # Usage:  
         . ./switch_user_env.sh unix_user  
     # Args:  
-        name of the unix user that must load the bash environment  
+        name of the unix user that you want to load the bash environment  
     # Help:  
         -h  display help
     # Code retour:  
